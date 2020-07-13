@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="textview">TextView</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="calculate">Calculate</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="grams">Grams</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="metres">Metres</string>
+</resources>
